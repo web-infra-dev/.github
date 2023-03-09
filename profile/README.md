@@ -5,11 +5,18 @@
 <h2 align="center">Web Infra</h2>
 
 
-## About us
+### About us
 
 We are the Web Infra team at ByteDance. Our primitive goal is to provide excellent technical solutions to help the company's business grow, and build an open technical ecology to promote the development of frontend technology in the company and the industry.
 
-## Join us
+### Our projects
+
+| [Rspack](https://github.com/web-infra-dev/rspack) | <a href="https://github.com/web-infra-dev/rspack" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/rspack-banner-1245.png" width="400" /></a> |
+| :-: | :-: |
+| [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/rspack" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Modern-banner-1245.png" width="400" /></a> |
+| [Garfish](https://github.com/web-infra-dev/garfish) | <a href="https://github.com/web-infra-dev/rspack" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Garfish-banner-1245.png" width="400" /></a> |
+
+### Join us
 
 We're looking for passionate engineers to help us build and maintain a world-class web infrastructure that supports ByteDance's continued growth and success. If you are interested, please read the link below:
 
