@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://webinfra.org/" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/web-infra-logo.png" width="120" alt="Web Infra Logo" /></a>
+  <a href="https://webinfra.org/" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/web-infra-logo.png" width="180" alt="Web Infra Logo" /></a>
 </div>
 
-<h2 align="center">Web Infra</h2>
+<h1 align="center">Web Infra</h1>
 
 
 ### About us
