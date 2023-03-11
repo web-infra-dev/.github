@@ -7,7 +7,7 @@
 
 ### About us
 
-We are the Web Infra team at ByteDance. Our primitive goal is to provide excellent technical solutions to help the company's business grow, and build an open technical ecology to promote the development of frontend technology in the company and the industry.
+We are the Web Infra team at ByteDance. Our primitive goal is to provide excellent technical solutions to help the company's business grow, and build an open technical ecosystem to promote the development of frontend technology in the company and the industry.
 
 ### Our projects
 
