@@ -15,7 +15,7 @@ We are the Web Infra team at ByteDance. Our primitive goal is to provide excelle
 | :-: | :-: |
 | [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Modern-0550.png" width="400" /></a> |
 | [Garfish](https://github.com/web-infra-dev/garfish) | <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Garfish-1630.png" width="400" /></a> |
-| [Oxc](https://github.com/web-infra-dev/oxc) | <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="[https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Garfish-1630.png](https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Oxc-0724.png)" width="400" /></a> |
+| [Oxc](https://github.com/web-infra-dev/oxc) | <a href="https://github.com/web-infra-dev/oxc" target="blank"><img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/Oxc-0724.png" width="400" /></a> |
 
 ### Join us
 
