@@ -19,6 +19,8 @@ We are the Web Infra team at ByteDance. Our primitive goal is to provide excelle
 | [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/aeb40ca7-e8d3-4649-836d-47cdb6a7e13f" width="400" /></a> |
 | [Garfish](https://github.com/web-infra-dev/garfish) | <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/e95ca47f-d059-47db-831a-be8b248c8710" width="400" /></a> |
 
+> See [github.com/rspack-contrib](https://github.com/rspack-contrib) for more projects!
+
 ### Join us
 
 We're looking for passionate engineers to help us build and maintain a world-class web infrastructure that supports ByteDance's continued growth and success. If you are interested, please read the link below:
