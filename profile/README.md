@@ -16,6 +16,7 @@ We are the Web Infra team at ByteDance. Our primitive goal is to provide excelle
 | [Rsbuild](https://github.com/web-infra-dev/rsbuild) | <a href="https://github.com/web-infra-dev/rsbuild" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/a74669c9-3e73-4bad-9ea4-dbe89284849a" width="400" /></a> |
 | [Rspress](https://github.com/web-infra-dev/rspress) | <a href="https://github.com/web-infra-dev/rspress" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/aa0c19ba-b2c7-4b44-85ab-54c7ef35f914" width="400" /></a> |
 | [Rsdoctor](https://github.com/web-infra-dev/rsdoctor) | <a href="https://github.com/web-infra-dev/rsdoctor" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/8131f196-f034-43a1-be8d-38ee7994792e" width="400" /></a> |
+| [Rslib](https://github.com/web-infra-dev/rslib) | <a href="https://github.com/web-infra-dev/rslib" target="blank"><img src="https://github.com/user-attachments/assets/198162b1-c337-4677-938e-61e9e5d8a682" width="400" /></a> |
 | [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/aeb40ca7-e8d3-4649-836d-47cdb6a7e13f" width="400" /></a> |
 | [Garfish](https://github.com/web-infra-dev/garfish) | <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://github.com/web-infra-dev/.github/assets/7237365/e95ca47f-d059-47db-831a-be8b248c8710" width="400" /></a> |
 
