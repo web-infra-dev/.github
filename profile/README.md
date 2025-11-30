@@ -6,7 +6,7 @@
 
 ### About us
 
-We are the Web Infra team at ByteDance. Our primitive goal is to provide excellent technical solutions to help the company's business grow, and build an open technical ecosystem to promote the development of frontend technology in the company and the industry.
+We are the Web Infra team at ByteDance. We build high-quality tools and infrastructure for modern web development, and we are committed to fostering an open ecosystem that supports developers both inside and outside the company.
 
 ### Our projects
 
@@ -18,3 +18,4 @@ We are the Web Infra team at ByteDance. Our primitive goal is to provide excelle
 | [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://github.com/user-attachments/assets/9bdc7030-53cc-4d98-bcd0-c2a2bdc273ce" width="400" /></a> | [Garfish](https://github.com/web-infra-dev/garfish) | <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://github.com/user-attachments/assets/0c66e310-0a30-4026-bb26-e5174207464b" width="400" /></a> |
 
 > See [github.com/rspack-contrib](https://github.com/rspack-contrib) for more projects!
+
