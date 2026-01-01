@@ -17,5 +17,6 @@ We are the Web Infra team at ByteDance. We build high-quality tools and infrastr
 | [Rslint](https://github.com/web-infra-dev/rslint) | <a href="https://github.com/web-infra-dev/rslint" target="blank"><img src="https://github.com/user-attachments/assets/0d6c76ee-c287-4caa-bafb-f98680795687" width="400" /></a> | [Midscene.js](https://github.com/web-infra-dev/midscene) | <a href="https://github.com/web-infra-dev/midscene" target="blank"><img src="https://github.com/user-attachments/assets/1cc0330f-91c3-4e27-8035-e730b05e1104" width="400" /></a> |
 | [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://github.com/user-attachments/assets/9bdc7030-53cc-4d98-bcd0-c2a2bdc273ce" width="400" /></a> | [Garfish](https://github.com/web-infra-dev/garfish) | <a href="https://github.com/web-infra-dev/garfish" target="blank"><img src="https://github.com/user-attachments/assets/0c66e310-0a30-4026-bb26-e5174207464b" width="400" /></a> |
 
-> See [github.com/rspack-contrib](https://github.com/rspack-contrib) for more projects!
+> See [github.com/rstackjs](https://github.com/rstackjs) for more projects!
+
 
